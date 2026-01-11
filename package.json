@@ -20,13 +20,13 @@
 		"typecheck": "tsc --project ./jsconfig.json"
 	},
 	"dependencies": {
-		"@hyperupcall/config-utils": "^0.4.0"
+		"@hyperupcall/config-utils": "^0.5.0"
 	},
 	"devDependencies": {
-		"@types/node": "^22.8.5",
+		"@types/node": "^25.0.6",
 		"prettier": "^3.7.4",
-		"prettier-plugin-pkg": "^0.18.1",
-		"typescript": "^5.6.3"
+		"prettier-plugin-pkg": "^0.21.2",
+		"typescript": "^5.9.3"
 	},
 	"prettier": "./index.js"
 }
